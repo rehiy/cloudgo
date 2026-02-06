@@ -1,4 +1,4 @@
-module github.com/opentdp/go-libcloud
+module github.com/rehiy/cloudgo
 
 go 1.18
 

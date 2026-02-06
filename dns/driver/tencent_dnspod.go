@@ -3,9 +3,9 @@ package drivers
 import (
 	"strconv"
 
-	"github.com/opentdp/go-libcloud/dns"
-	"github.com/opentdp/go-libcloud/provider"
-	"github.com/opentdp/go-libcloud/provider/tencent"
+	"github.com/rehiy/cloudgo/dns"
+	"github.com/rehiy/cloudgo/provider"
+	"github.com/rehiy/cloudgo/provider/tencent"
 
 	dnspod "github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/dnspod/v20210323"
 )

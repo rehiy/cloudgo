@@ -4,8 +4,8 @@ import (
 	"os"
 	"regexp"
 
-	"github.com/opentdp/go-libcloud/provider"
-	"github.com/opentdp/go-libcloud/setting"
+	"github.com/rehiy/cloudgo/provider"
+	"github.com/rehiy/cloudgo/setting"
 
 	ac "github.com/alibabacloud-go/darabonba-openapi/v2/client"
 	au "github.com/alibabacloud-go/tea-utils/v2/service"

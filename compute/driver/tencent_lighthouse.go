@@ -1,9 +1,9 @@
 package drivers
 
 import (
-	"github.com/opentdp/go-libcloud/compute"
-	"github.com/opentdp/go-libcloud/provider"
-	"github.com/opentdp/go-libcloud/provider/tencent"
+	"github.com/rehiy/cloudgo/compute"
+	"github.com/rehiy/cloudgo/provider"
+	"github.com/rehiy/cloudgo/provider/tencent"
 
 	lighthouse "github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/lighthouse/v20200324"
 )

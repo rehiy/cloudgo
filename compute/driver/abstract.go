@@ -1,7 +1,7 @@
 package drivers
 
 import (
-	"github.com/opentdp/go-libcloud/compute"
+	"github.com/rehiy/cloudgo/compute"
 )
 
 type AbstractDriver struct{}

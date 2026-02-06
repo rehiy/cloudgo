@@ -1,7 +1,7 @@
 package drivers
 
 import (
-	"github.com/opentdp/go-libcloud/container"
+	"github.com/rehiy/cloudgo/container"
 )
 
 type DockerDriver struct {

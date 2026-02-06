@@ -1,9 +1,9 @@
 package drivers
 
 import (
-	"github.com/opentdp/go-libcloud/dns"
-	"github.com/opentdp/go-libcloud/provider"
-	"github.com/opentdp/go-libcloud/provider/cloudflare"
+	"github.com/rehiy/cloudgo/dns"
+	"github.com/rehiy/cloudgo/provider"
+	"github.com/rehiy/cloudgo/provider/cloudflare"
 
 	cf "github.com/cloudflare/cloudflare-go"
 )

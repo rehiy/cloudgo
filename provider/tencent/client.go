@@ -4,8 +4,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/opentdp/go-libcloud/provider"
-	"github.com/opentdp/go-libcloud/setting"
+	"github.com/rehiy/cloudgo/provider"
+	"github.com/rehiy/cloudgo/setting"
 
 	tc "github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common"
 	te "github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common/errors"
